@@ -11,4 +11,7 @@
 -I used similarity by keeping navigation links and project elements styled consistently 
 
 
+-I used proximity to group related content together 
+
+
 -I used the same color palette across all three pages
